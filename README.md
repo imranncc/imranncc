@@ -2,13 +2,17 @@
   <img src="https://github.com/imranncc/imranncc/blob/main/assets/intro new.gif" alt="Hi, I'm Imran 👋 I'm a developer 🚀">
 </p>
 
-<center>
-
-[![Gmail: imranncc](https://img.shields.io/badge/-imranncc-white?style=flat-square&logo=gmail&logoColor=white&logoColor=white&link=isc04@yahoo.com)](isc04@yahoo.com)
-[![Linkedin: imranncc](https://img.shields.io/badge/-imranncc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imranncc)](https://www.linkedin.com/in/imranncc)
-[![GitHub imranncc](https://img.shields.io/github/followers/imranncc?label=follow&style=social)](https://github.com/imranncc)
-
-</center>
+<p align="center">
+  <a href="mailto:isc04@yahoo.com">
+    <img src="https://img.shields.io/badge/-imranncc-white?style=flat-square&logo=gmail&logoColor=white&link=isc04@yahoo.com" alt="Gmail: imranncc">
+  </a>
+  <a href="https://www.linkedin.com/in/imranncc">
+    <img src="https://img.shields.io/badge/-imranncc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imranncc" alt="Linkedin: imranncc">
+  </a>
+  <a href="https://github.com/imranncc">
+    <img src="https://img.shields.io/github/followers/imranncc?label=follow&style=social" alt="GitHub imranncc">
+  </a>
+</p>
 
 <br> 
 
