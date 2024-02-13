@@ -16,21 +16,15 @@
 
 <br> 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 Driven Software and Biomedical Engineerning student with expertise in Python, machine learning, and data analysis. Proven experience in biomedical tech and algorithm development, ready to innovate in the teach industry.
 
 
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xsMHdkY242dXUxcGl4cjdlMzYycWhmYmR3YjB6bmR1ZG5nZjY2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50"> Languages-Frameworks-Tools
 
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,linux,tensorflow,opencv,vscode,github" />
-</div>
+<img src="https://skillicons.dev/icons?i=java,c,python,mysql,linux,tensorflow,opencv,vscode,github" />
 
 <br/>
-
-<h2 align="center">📊 Github Stats 📊</h2>
-
-![Imran Chowdhury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranncc&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranncc&show_icons=true&theme=radical)
 
 
