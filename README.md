@@ -2,8 +2,6 @@
   <img src="https://github.com/imranncc/imranncc/blob/main/assets/intro.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-<h3 align="center">Software Intern</h3>
-
 <div align="center"> 
   <a href="isc04@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
