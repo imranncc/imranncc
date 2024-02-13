@@ -20,10 +20,12 @@
 
 Driven Software and Biomedical Engineerning student with expertise in Python, machine learning, and data analysis. Proven experience in biomedical tech and algorithm development, ready to innovate in the teach industry.
 
-
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xsMHdkY242dXUxcGl4cjdlMzYycWhmYmR3YjB6bmR1ZG5nZjY2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50"> Languages-Frameworks-Tools
-
+### <img align='left' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ6Ym13eTZuZGs2Y25iYTFyNDI0ZGhyNWFnYnpmbTJobWptM3A4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">  languages / frameworks / tools  
 <img src="https://skillicons.dev/icons?i=java,c,python,mysql,linux,tensorflow,opencv,vscode,github" />
+
+
+### <img src= https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZlYjhrZGJsbmtrZGQwNnJ5aG8xd3h1c3E4ejB3cG9wN2RxeWwyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 <br/>
 
