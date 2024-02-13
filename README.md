@@ -14,8 +14,7 @@
 
 <br> 
 
-Driven Software and Biomedical Engineerning student with expertise in Python, machine learning, and data analysis.
-Proven experience in biomedical tech and algorithm development, ready to innovate in the teach industry.
+Driven Software and Biomedical Engineerning student with expertise in Python, machine learning, and data analysis. Proven experience in biomedical tech and algorithm development, ready to innovate in the teach industry.
 
 <div align="center">
  
@@ -29,14 +28,14 @@ Proven experience in biomedical tech and algorithm development, ready to innovat
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,fastapi,tensorflow,sklearn,pytorch,opencv,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,linux,tensorflow,opencv,vscode,github" />
 </div>
 
 <br/>
 
 <h2 align="center">📊 Github Stats 📊</h2>
 
-![Gustavo Lima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athousanddetails&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athousanddetails&show_icons=true&theme=radical)
+![Imran Chowdhury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranncc&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranncc&show_icons=true&theme=radical)
 
 
