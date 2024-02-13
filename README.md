@@ -17,8 +17,8 @@
 </div>
 
 [![Twitter: imranncc](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/imranncc)
-[![Linkedin: imranncc](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imranncc)](https://www.linkedin.com/in/imranncc)
-[![GitHub imranncc](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/imranncc)
+[![Linkedin: imranncc](https://img.shields.io/badge/-imranncc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imranncc)](https://www.linkedin.com/in/imranncc)
+[![GitHub imranncc](https://img.shields.io/github/followers/imranncc?label=follow&style=social)](https://github.com/imranncc)
 
 <br> 
 
