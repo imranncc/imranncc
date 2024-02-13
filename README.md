@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:isc04@yahoo.com">
-    <img src="https://img.shields.io/badge/-imranncc-white?style=flat-square&logo=gmail&logoColor=white&link=isc04@yahoo.com" alt="Gmail: imranncc">
+    <img src="https://img.shields.io/badge/-imranncc-white?style=flat-square&logo=gmail&logoColor=white&logoColor=white&link=isc04@yahoo.com" alt="Gmail: imranncc">
   </a>
   <a href="https://www.linkedin.com/in/imranncc">
     <img src="https://img.shields.io/badge/-imranncc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imranncc" alt="Linkedin: imranncc">
